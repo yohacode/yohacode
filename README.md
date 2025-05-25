@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React, Vue, Data-structure ....**
 
-- 👨‍💻 All of my projects are available at [yohacodes.pro.et](yohacodes.pro.et)
+- 👨‍💻 All of my projects are available at [yohacodes.pro.et](<a href="https://yohacodes.pro.et" target="blank">Yohacodes</a>)
 
 - 💬 Ask me about **PHP { Laravel, Livewire, PHPStan, PHPunit }, HTML, CSS ....**
 
