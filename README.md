@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [mks school website](https://jijmks.org)
+- 🔭 I’m currently working on [mks school website](<a target="_blank" rel="noopener noreferrer" href="https://jijmks.org" >mk school</a>)
 
 - 🌱 I’m currently learning **React, Vue, Data-structure ....**
 
