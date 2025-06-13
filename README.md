@@ -17,6 +17,11 @@ i am currently working on PHP, Laravel  and Livewire,
 ![](https://nirzak-streak-stats.vercel.app/?user=yohacode&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yohacode&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## Statistics
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yohacode&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohacode&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Most used programming languages" />
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yohacode&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
