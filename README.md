@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-stack developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yohacode&label=Profile%20views&color=0e75b6&style=flat" alt="yohacode" /> </p>
-
+<img src="https://avatars.githubusercontent.com/u/72225779?v=4" alt="" width="100px" hight="100px" />
 # 💫 About Me:
 i am currently working on PHP, Laravel  and Livewire,
 also python , database ( MySql, Postgres )
