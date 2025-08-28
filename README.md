@@ -5,6 +5,7 @@
 
 # 💫 About Me:
 i am currently working on PHP, Laravel  and Livewire,
+also python , database ( MySql, Postgres )
 
 
 # 📊 GitHub Stats:
